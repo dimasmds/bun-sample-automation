@@ -1,0 +1,12 @@
+{
+  "projectId": "project-1",
+  "message": "<p>Maaf <strong>John Doe</strong>! Kamu belum berhasil lolos dengan alasan: Kami tidak dapat menemukan komentar yang ditulis pada main.js sesuai dengan submitter id",
+  "checklist": [
+    "contain_package_json",
+    "contain_main_js",
+    "root_should_showing_html",
+    "html_should_contain_h1_and_student_id",
+    "app_port_should_5000"
+  ],
+  "passed": false
+}

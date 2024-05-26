@@ -1,0 +1,10 @@
+{
+  "projectId": "project-1",
+  "message": "<p>Maaf <strong>John Doe</strong>! Kamu belum berhasil lolos dengan alasan: Kami gagal mengakses aplikasmu. Pastikan kamu menggunakan port 5000.",
+  "checklist": [
+    "contain_package_json",
+    "contain_main_js",
+    "main_js_contain_student_id"
+  ],
+  "passed": false
+}

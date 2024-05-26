@@ -1,0 +1,6 @@
+{
+  "projectId": "project-1",
+  "message": "<p>Maaf <strong>John Doe</strong>! Kamu belum berhasil lolos dengan alasan: Kami tidak dapat menemukan berkas package.json pada submission Anda.",
+  "checklist": [],
+  "passed": false
+}

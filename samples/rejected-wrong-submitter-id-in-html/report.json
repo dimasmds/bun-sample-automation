@@ -1,0 +1,12 @@
+{
+  "projectId": "project-1",
+  "message": "<p>Maaf <strong>John Doe</strong>! Kamu belum berhasil lolos dengan alasan: Response dari aplikasimu tidak menampilkan submitter id yang dibungkus dengan element h1",
+  "checklist": [
+    "contain_package_json",
+    "contain_main_js",
+    "main_js_contain_student_id",
+    "root_should_showing_html",
+    "app_port_should_5000"
+  ],
+  "passed": false
+}
