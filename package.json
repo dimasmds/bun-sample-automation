@@ -9,7 +9,7 @@
   "scripts": {
     "start": "bun run src/app.ts",
     "test": "bun test --coverage",
-    "compile": "bun build src/app.ts --target=bun --compile --outfile app-bun"
+    "compile": "bun build src/app.ts --target=bun --compile --outfile app"
   },
   "dependencies": {
     "esprima-extract-comments": "^1.1.0",
