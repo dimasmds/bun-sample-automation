@@ -12,7 +12,6 @@
     "compile": "bun build src/app.ts --target=bun --compile --outfile app"
   },
   "dependencies": {
-    "esprima-extract-comments": "^1.1.0",
-    "wait-port": "^1.1.0"
+    "esprima-extract-comments": "^1.1.0"
   }
 }
